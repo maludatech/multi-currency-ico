@@ -10,7 +10,7 @@ In this tutorial, we'll build and deploy a Multi-Currency ICO, Staking, and Refe
 ✅ Integrate Wagmi for seamless Web3 interactions
 ✅ Deploy the smart contract and frontend
 
-Perfect for Web3 developers looking to create an advanced crypto fundraising and staking platform. Don't forget to like, subscribe, and hit the bell icon for more blockchain development content! 🚀💰
+Perfect for Web3 developers looking to create an advanced crypto fundraising and staking platform.
 
 ## Project Overview
 
